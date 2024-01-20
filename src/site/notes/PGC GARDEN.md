@@ -10,7 +10,7 @@ Point marché
 
 ## **Zone géographique**
 
-[Monde](https://www.notion.so/Monde-55eb663692664010a503911368e501fe?pvs=21)
+[[Pays/Monde/Monde\|Monde]]
 
 [[Pays/USA/USA\|USA]]
 
