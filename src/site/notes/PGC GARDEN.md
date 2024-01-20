@@ -10,10 +10,10 @@ Point marché
 
 ## **Zone géographique**
 
-[[Zone Géographique\|Zone Géographique]]
+[[Zone Géographique/Zone Géographique\|Zone Géographique]]
 
 ## **Secteurs d’activités :**
 
-[[Secteurs d'activités\|Secteurs d'activités]]
+[[Secteur d'activités/Secteurs d'activités\|Secteurs d'activités]]
 
 
