@@ -17,3 +17,10 @@ Point marché
 [[Secteur d'activités/Secteurs d'activités\|Secteurs d'activités]]
 
 
+
+##  Connaissances 
+
+[[Connaissances\|Connaissances]]
+
+
+
