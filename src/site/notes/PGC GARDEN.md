@@ -12,7 +12,7 @@ Point marché
 
 [Monde](https://www.notion.so/Monde-55eb663692664010a503911368e501fe?pvs=21)
 
-[[Pays/USA\|USA]]
+[[Pays/USA/USA\|USA]]
 
 [Chine](https://www.notion.so/Chine-43900644fe254c3bb645dd99b71036fd?pvs=21)
 
