@@ -12,7 +12,7 @@ Point marché
 
 [[Pays/Monde/Monde\|Monde]]
 
-[[USA\|USA]]
+[[Pays/USA\|USA]]
 
 [[Pays/Chine/Chine\|Chine]]
 
@@ -22,7 +22,7 @@ Point marché
 
 [Inde](https://www.notion.so/Inde-ba22b679fc974c20afddd1d2cda06520?pvs=21)
 
-[France](https://www.notion.so/France-de48a2a185064448a81665334274e4a7?pvs=21)
+[[Pays/France\|France]]
 
 [Others](https://www.notion.so/Others-12faf048411042f1865b5009fab09792?pvs=21)
 
