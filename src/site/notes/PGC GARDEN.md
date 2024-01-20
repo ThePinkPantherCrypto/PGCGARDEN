@@ -12,7 +12,7 @@ Point marché
 
 [[Pays/Monde/Monde\|Monde]]
 
-[[Pays/USA/USA\|USA]]
+[[USA\|USA]]
 
 [[Pays/Chine/Chine\|Chine]]
 
