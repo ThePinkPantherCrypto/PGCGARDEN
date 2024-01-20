@@ -3,8 +3,8 @@
 ---
 
 
-[[Apple\|Apple]]
-[[Microsoft\|Microsoft]]
+[[Pays/USA/Entreprises USA/Apple\|Apple]]
+[[Pays/USA/Entreprises USA/Microsoft\|Microsoft]]
 
 
 
