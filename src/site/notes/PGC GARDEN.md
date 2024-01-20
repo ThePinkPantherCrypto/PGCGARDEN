@@ -34,7 +34,7 @@ Point marché
 
 [Luxe](https://www.notion.so/Luxe-65932c1e53c14e2a80a508d00e0741b8?pvs=21)
 
-[Technology](https://www.notion.so/Technology-2d06e9c0938b4505b50746c0fcf51b3a?pvs=21)
+[[Technologie\|Technologie]]
 
 [Transports](https://www.notion.so/Transports-c036629a775244519c86bd27b021b17b?pvs=21)
 
