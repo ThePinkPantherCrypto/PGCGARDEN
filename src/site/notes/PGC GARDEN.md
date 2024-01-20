@@ -14,7 +14,7 @@ Point marché
 
 [[Pays/USA/USA\|USA]]
 
-[Chine](https://www.notion.so/Chine-43900644fe254c3bb645dd99b71036fd?pvs=21)
+[[Pays/Chine/Chine\|Chine]]
 
 [Europe](https://www.notion.so/Europe-142f0c42d115474596506337a53e00d6?pvs=21)
 
