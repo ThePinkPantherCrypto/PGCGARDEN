@@ -18,7 +18,7 @@ Point marché
 
 [Europe](https://www.notion.so/Europe-142f0c42d115474596506337a53e00d6?pvs=21)
 
-[Russie](https://www.notion.so/Russie-a7fce82f0e9e4682b27b8f2b287fd871?pvs=21)
+[[Pays/Russie/Russie\|Russie]]
 
 [Inde](https://www.notion.so/Inde-ba22b679fc974c20afddd1d2cda06520?pvs=21)
 
