@@ -5,7 +5,7 @@
 #Dettes 
 ### **Qui détient la dette américaine :**
 
-![Untitled.png](/img/user/Untitled.png)
+![Untitled.png](/img/user/Sources/Untitled.png)
 
 
 
@@ -20,4 +20,4 @@
 **C'est 2x plus qu'en 2022.**
 
 
-![DETTE USA 1.png](/img/user/DETTE%20USA%201.png)
+![DETTE USA 1.png](/img/user/Sources/DETTE%20USA%201.png)
