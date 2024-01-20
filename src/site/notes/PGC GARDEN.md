@@ -10,43 +10,41 @@ Point marché
 
 ## **Zone géographique**
 
-[[Pays/Monde/Monde\|Monde]]
+[[Zone Géographique/Monde/Monde\|Monde]]
 
-[[Pays/USA/USA\|USA]]
+[[Zone Géographique/USA/USA\|USA]]
 
-[[Pays/Chine/Chine\|Chine]]
+[[Zone Géographique/Chine/Chine\|Chine]]
 
-[Europe](https://www.notion.so/Europe-142f0c42d115474596506337a53e00d6?pvs=21)
+[[Europe\|Europe]]
 
-[[Pays/Russie/Russie\|Russie]]
+[[Zone Géographique/Russie/Russie\|Russie]]
 
-[Inde](https://www.notion.so/Inde-ba22b679fc974c20afddd1d2cda06520?pvs=21)
+[[Zone Géographique/Inde/Inde\|Inde]]
 
-[[Pays/France\|France]]
+[[Zone Géographique/France\|France]]
 
-[Others](https://www.notion.so/Others-12faf048411042f1865b5009fab09792?pvs=21)
+[[Zone Géographique/Others/Others\|Others]]
 
 ## **Secteurs d’activités :**
 
-[Agro-Alimentaire](https://www.notion.so/Agro-Alimentaire-a5009324b5834598971f362fa99f9ef4?pvs=21)
+[[Agro-Alimentaire\|Agro-Alimentaire]]
 
-[Energie :](https://www.notion.so/Energie-9a76dd53ea434db0875d4278425ece24?pvs=21)
+[[Energie\|Energie]]
 
-[Luxe](https://www.notion.so/Luxe-65932c1e53c14e2a80a508d00e0741b8?pvs=21)
+[[Luxe\|Luxe]]
 
-[[Technologie\|Technologie]]
+[[Secteur d'activités/Technologie\|Technologie]]
 
-[Transports](https://www.notion.so/Transports-c036629a775244519c86bd27b021b17b?pvs=21)
+[[Transport\|Transport]]
 
-[Santé et Biomédical](https://www.notion.so/Sant-et-Biom-dical-60fc400092214027aff766e58e4f084a?pvs=21)
+[[Secteur d'activités/Santé et Biomédical\|Santé et Biomédical]]
 
-[Aéronautique et spatial](https://www.notion.so/A-ronautique-et-spatial-c6c16bed8e6e4377b9f9234697f0b0b3?pvs=21)
+[[Aéronautique et spatial\|Aéronautique et spatial]]
 
-[Défense et sécurité](https://www.notion.so/D-fense-et-s-curit-e934740cfbb14ce8881c45670b438575?pvs=21)
+[[Défense et sécurité\|Défense et sécurité]]
 
-[Minerais](https://www.notion.so/Minerais-8ec87f7fae9248bfb85501735827c33a?pvs=21)
+[[Minerais\|Minerais]]
 
-[Politique](https://www.notion.so/Politique-8d49005097884b0d94da70a283a366f9?pvs=21)
 
-[Afrique](https://www.notion.so/Afrique-00d4a0c2f10e4060bd20efd8fb0959fe?pvs=21)
 
