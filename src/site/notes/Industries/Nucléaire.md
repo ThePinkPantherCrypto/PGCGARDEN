@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/industries/nucleaire/"}
 ---
 
-
-
-FISSION NUCLÉAIRE :
+![IMG_20240205_124112_144.jpg](/img/user/IMG_20240205_124112_144.jpg)
+### FISSION NUCLÉAIRE :
 
 Le fonctionnement d'un réacteur ce fait avec de **l'uranium 235**, qui représente moins de **1%** de l'uranium disponible sur terre les 99 % restant sont de **l'uranium 238** qui ne sont pas utilisable par les centrales actuelles sauf certaines **Phénix et Superphenix en France **
 
