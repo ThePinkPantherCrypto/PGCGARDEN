@@ -21,4 +21,4 @@
 
 [[Secteur d'activités/Minerais\|Minerais]]
 
-++WQXX-PVJJ6V-EKBFWQXX-PVJJ6V-EKBF
+
