@@ -5,7 +5,7 @@
 #Dettes 
 ### **Qui détient la dette américaine :**
 
-![Untitled.png](/img/user/Sources/Untitled.png)
+![Untitled.png](/img/user/Untitled.png)
 
 
 
