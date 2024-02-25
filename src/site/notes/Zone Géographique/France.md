@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/zone-geographique/france/"}
 ---
 
+### La France et l'Energie
 
 
-[[Dette Française \|Dette Française ]]
-[[Zone Géographique/France/Entreprises Française\|Entreprises Française]]
-[[Zone Géographique/France/Politique Française\|Politique Française]]
-
-
-
+![Untitled.png](/img/user/Untitled.png)
