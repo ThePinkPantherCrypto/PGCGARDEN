@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ble/"}
 ---
 
-# Blé
 
 **La moitié** des calories consommées par l'homme provient du blé et du riz. Le **blé** correspond à 18 % des apports caloriques des hommes.
 
