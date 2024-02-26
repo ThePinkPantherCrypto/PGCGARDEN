@@ -7,7 +7,7 @@
 
 
 
-**Introduction**
+**Introduction** test validation 
 
 Les indices mondiaux enchaînent les plus hauts historiques dans l’anticipation d’un scénario parfait. L'inflation tend à la baisse et la zone euro évite la récession. Aux Etats-Unis, le marché du travail tient bon puisque les offres d’emplois disponibles repartent à la hausse, signe que les entreprises peinent à embaucher. Après les records de la semaine dernière aux États-Unis (semaine du 5 février), c’est maintenant le CAC 40 qui réalise un nouveau record historique en clôture. Les résultats d’entreprises continuent de rassurer les investisseurs.
 
