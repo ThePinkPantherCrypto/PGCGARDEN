@@ -30,7 +30,7 @@ Le chiffre d'affaires évolue par le biais de 3 facteurs
 
 ![image001.png](/img/user/Sources/image001.png)
 
-![image002.png](/img/user/Sources/image002.png)
+![image002.png](/img/user/image002.png)
 
 
 **Commentaire** :
