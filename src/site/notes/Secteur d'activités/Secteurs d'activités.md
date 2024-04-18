@@ -23,6 +23,7 @@
 
 [[Intelligence artificielle\|Intelligence artificielle]]
 
+[[Industries\|Industries]]
 
 
 
