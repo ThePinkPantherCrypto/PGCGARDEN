@@ -15,7 +15,7 @@
 
 [[Zone Géographique/Russie/Russie\|Russie]]
 
-[[Zone Géographique/Canada\|Canada]]
+[[Secteur d'activités/Canada\|Canada]]
 
 [[Zone Géographique/Egypte\|Egypte]]
 
