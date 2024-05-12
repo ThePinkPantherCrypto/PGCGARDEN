@@ -68,7 +68,7 @@ R.Merton et Z.Bodie distinguent **6 fonctions**  d’un système financier
 
 - Fonction d’épargne de d’endettement
 
--Fonction de gestion des risques
+- Fonction de gestion des risques
 
 - Fonction de réduction des conflits
 
@@ -220,7 +220,7 @@ L'un prend en compte la dette la ou l'autre ce focalise sur les capitaux propres
 
 
 
-==Calcul de la VAN avec (EXCEL)==****
+==Calcul de la VAN avec (EXCEL)==
 
 
 
