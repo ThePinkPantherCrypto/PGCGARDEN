@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/analyse-des-strategies-de-ce-gerant-pour-faire-14-9-an-romain-burnand-moneta-finary-talk-38/"}
 ---
 
-
+[Analyse des stratégies de ce gérant pour faire 14,9%/an | Romain Burnand (Moneta) | Finary Talk 38](https://www.youtube.com/watch?v=1lzVI53w-NQ)
+	Channel:
+		Finary
+	Thumbnail:
+		![](https://i.ytimg.com/vi/1lzVI53w-NQ/hqdefault.jpg)
 ### Le fond Moneta Micro Entreprises
 
 ![Pasted image 20240509184339.png](/img/user/Pasted%20image%2020240509184339.png)
