@@ -14,7 +14,7 @@
 
 [[Zone Géographique/Allemagne\|Allemagne]]
 
-[[Zone Géographique/Chine/Chine\|Chine]]
+[[Zone Géographique/Chine/CHINE\|CHINE]]
 
 [[Secteur d'activités/Europe\|Europe]]
 
