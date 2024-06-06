@@ -3,14 +3,20 @@
 ---
 
 
-![Pasted image 20240511084656.png](/img/user/Pasted%20image%2020240511084656.png)
-
+[Cet homme veut révolutionner le monde bancaire - Matthias Baccino](https://www.youtube.com/watch?v=xywQauqK1xQ&t=5893s)
+	Channel:
+		Jokariz
+	Thumbnail:
+		![](https://i.ytimg.com/vi/xywQauqK1xQ/hqdefault.jpg)
 
 
 
 ## Son milieu, ses origines et son histoire ? [(00:02:10)
 
 ](https://www.youtube.com/watch?v=xywQauqK1xQ&t=130s)
+
+
+
 
 - Matthias Baccino a grandi à Brest, une ville portuaire française, dans une famille issue de l'immigration italienne et espagnole.
 
