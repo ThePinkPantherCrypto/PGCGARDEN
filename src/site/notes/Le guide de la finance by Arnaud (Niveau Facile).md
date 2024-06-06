@@ -4,6 +4,47 @@
 
 
 
+## FINANCE DE MARCHE BASICS
+
+[[TAUX SANS RISQUE\|TAUX SANS RISQUE]]
+[[COST OF EQUITY\|COST OF EQUITY]]
+[[OBLIGATIONS\|OBLIGATIONS]]
+
+
+## MULTIPLES DE VALORISATION
+
+[[PE RATIO\|PE RATIO]]
+
+## MACROECONOMIE
+
+[[CONSUMER PRICE INDEX (CPI)\|CONSUMER PRICE INDEX (CPI)]]
+[[ANALYSE D'UNE SOCIETE\|ANALYSE D'UNE SOCIETE]]
+
+
+
+## FONDS ET ETF
+
+
+
+
+## CULTURE FINANCIERE 
+
+
+
+## MAISONS DE GESTIONS ET BANQUES 
+
+[[Lazard M&A\|Lazard M&A]]
+
+
+
+
+## GRANDS NOMS DE LA FINANCE
+
+
+
+
+
+
 ### **Le rôle des marchés financiers :** 
 
 Le rôle principal est de mettre en relation les agents économiques excédentaire en ressource avec ceux qui sont déficitaires. Cela peut se faire de façon **direct** ou **indirect.**
@@ -215,17 +256,14 @@ L'un prend en compte la dette la ou l'autre ce focalise sur les capitaux propres
 - Lorsque nous calculons une VAN Equity, c’est le CoE (« Cost of Equity ») qui sera retenu comme taux d’actualisation
 
 
-
-
-
-
-
 ==Calcul de la VAN avec (EXCEL)==
 
+La formule de la VAN est la suivante : 
+= VAN (taux ; valeurs)
 
+Où : Le « taux » est le taux d’actualisation à appliquer (WACC ou CoE) ; Les « valeurs » sont les flux générés par le projet (FCFF ou FCFE).
 
-#### TRI 
-
+![Pasted image 20240512175910.png](/img/user/Pasted%20image%2020240512175910.png)
 
 #### La notion de WACC ou de CMPC (cout moyen pondéré du capital)
 
@@ -235,11 +273,45 @@ Pour ce financer une entreprise dispose de 3 sources majeurs
 - Debt (dettes)
 - L'autofinancement (par le biais des bénéfices d'un exercice)
 
-e WACC représente le taux de rentabilité annuel moyen attendu par tous les investisseurs de l’entreprise (Equity + Debt). Le WACC capture donc la capacité d’une entreprise à utiliser et rentabiliser les fonds qui lui sont confiés.
+Le WACC représente le taux de rentabilité annuel moyen attendu par tous les investisseurs de l’entreprise (Equity + Debt). Le WACC capture donc la capacité d’une entreprise à utiliser et rentabiliser les fonds qui lui sont confiés.
 
 ###### Le calcul du WACC formules et subtilités : 
 
 ![Pasted image 20240512140748.png](/img/user/Pasted%20image%2020240512140748.png)
+
+
+On peut **scinder** en deux le calcul du coup du capital avec une partie **equity** et une partie **dettes** , a lequel on viendra rapporter la pondération de chacune des parties au sein du calcul.
+
+---
+**Exemple** :  Nous avons une entreprise A qui est financée à hauteur de 30M€ en Equity et à hauteur de 70M€ en Debt. Sa structure capitalistique est donc égale à 100M€. Ainsi, la part d’Equity dans sa structure capitalistique sera égale à 30M€ / 100M€ = 30% et la part de Debt à 70M€ / 100M€ = 70%.
+
+![Pasted image 20240512174932.png](/img/user/Pasted%20image%2020240512174932.png)
+
+---
+
+Après avoir déterminé les poids de chaque source de financement, pour obtenir le WACC, il suffit de multiplier le poids de chaque partie par le coût associé, c’est-à-dire le Cost of Equity avec le poids de l’Equity et le Cost of Debt avec le poids de la Debt. La seule différence entre le Cost of Equity et le Cost of Debt est que le Cost of Debt doit être considéré après taxes (on obtient une sorte de « cost of debt net »), d’où l’utilisation du **« Tax Shield ».**
+
+###### Le calcul du cost of equity : 
+
+![Pasted image 20240512175159.png](/img/user/Pasted%20image%2020240512175159.png)
+
+###### Les composantes du cost of Equity :
+
+###### Le Risk-Free Rate ou taux sans risque :
+
+Le Risk-Free Rate est le taux qu’une entreprise peut attendre d’un investissement sans risques, c’est-à-dire un investissement dont la probabilité d’un défaut de paiement de l’emprunteur est quasiment nulle. Généralement, pour déterminer un Risk-Free Rate, il convient de se référer aux taux des obligations d’états.
+
+###### Le Risk-premium :
+Représente le retour attendu entre des actions traditionnelles (des entreprises lambdas) et des obligations d’Etat. Pour ce faire, deux méthodes de calculs possibles : 
+- **« Ex-Post »** : qui est une analyse statistique et historique des retours obtenus sur des actions d’entreprises et des obligations d’état.
+- **« Ex-Ante »** : qui consiste à estimer les futurs dividendes des actions d’entreprises et les futurs gains des obligations d’état.
+
+###### L'Equity BETA :
+
+![Pasted image 20240512175639.png](/img/user/Pasted%20image%2020240512175639.png)
+
+
+###### TRI
 
 
 
