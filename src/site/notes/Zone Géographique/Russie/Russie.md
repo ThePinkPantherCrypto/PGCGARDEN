@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/zone-geographique/russie/russie/"}
 ---
 
+
+[[Zone Géographique/Russie/Entreprises Russe/ENTREPRISES RU\|ENTREPRISES RU]]
+
 ### Revenues pétroliers Russes 
 
 Les revenus pétroliers de la Russie sont plus élevés qu'avant l'invasion de l'Ukraine.
