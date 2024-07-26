@@ -3,5 +3,5 @@
 ---
 
 [[Industries/Nucléaire\|Nucléaire]]
-[[Petrole\|Petrole]]
+[[Secteur d'activités/Petrole\|Petrole]]
 [[Industries/Gaz\|Gaz]]
