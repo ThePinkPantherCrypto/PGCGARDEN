@@ -13,7 +13,7 @@ Le reste de la population ce partage entre **6 méga-cities** de plus de 10 mill
 4. Hyderabad - environ 10 millions d'habitants
 5. Ahmedabad - environ 7 millions d'habitants
 6. Chennai - environ 6 millions d'habitants
-![Pasted image 20240505181351.png](/img/user/Pasted%20image%2020240505181351.png)
+![Pasted image 20240505181351.png](/img/user/Data/Pasted%20image%2020240505181351.png)
 
 Aujourd'hui l'Inde a de bon espoirs de déplacer la Chine en termes de population qui es dans un déclin démographique.
 
@@ -24,7 +24,7 @@ En termes de **religion** on retrouve 80 % d'hindous, et 14 % de musulmans , ce 
 ## L'inde selon Narendra Modi 
 
 
-La présidente est **Droupadi Murmu**, en réalité c'est **[[Narendra Modī\|Narendra Modī]]** Premier ministre de l'Inde qui dirige le pays depuis 2014. Il prone l'**Hindutva** la suprématie de l'indouisme au profit des autres religions.
+La présidente est **Droupadi Murmu**, en réalité c'est **[[Influents People/Narendra Modī\|Narendra Modī]]** Premier ministre de l'Inde qui dirige le pays depuis 2014. Il prone l'**Hindutva** la suprématie de l'indouisme au profit des autres religions.
 Cela constrate avec des individus tels que **Gandhi** qui ont toujours souhaité une cohésion religieuse.
 
 A savoir : Il a souhaité avec son parti le **Bharatiya Janata Party** (BJP) faire disparaite des guides touristiques le Taj mahal , car construit sous commande de  l'**empereur moghol (pas mongole) musulman Shâh Jahân** en mémoire de son épouse Arjumand Bânu Begam. Ceci témoigne de son rejet de l'Islam et d'une volonté de **démocratie ethnique indouiste**.
@@ -33,4 +33,4 @@ A savoir : Il a souhaité avec son parti le **Bharatiya Janata Party** (BJP) fai
 
 ### Les 50 compagnies Indiennes a connaître
 
-![IMG_20240225_111542_149.jpg](/img/user/IMG_20240225_111542_149.jpg)
+![IMG_20240225_111542_149.jpg](/img/user/Data/IMG_20240225_111542_149.jpg)
