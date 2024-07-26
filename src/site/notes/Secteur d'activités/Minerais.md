@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/secteur-d-activites/minerais/"}
 ---
 
-![IMG_20240205_124323_271.jpg](/img/user/IMG_20240205_124323_271.jpg)
+![IMG_20240205_124323_271.jpg](/img/user/Data/IMG_20240205_124323_271.jpg)
 
-[[Lithium\|Lithium]]
+[[Secteur d'activités/Lithium\|Lithium]]
