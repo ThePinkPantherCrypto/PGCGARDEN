@@ -9,4 +9,4 @@ La France représente 3.5% de la dette mondiale loin derrière les Etats-unis (3
 Reste que par rapport à son PIB, la France est le 13ème pays le plus endetté du monde (110% du PIB)
 
 
-![Untitled (4).png](/img/user/Sources/Untitled%20(4).png)
+![Untitled (4).png](/img/user/Data/Sources/Untitled%20(4).png)
