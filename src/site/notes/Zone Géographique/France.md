@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/zone-geographique/france/"}
 ---
 
-[[ENTREPRISES FR\|ENTREPRISES FR]]
+[[Entreprises/ENTREPRISES FR\|ENTREPRISES FR]]
 
 
 ### La France et l'Energie
 
 
-![Untitled.png](/img/user/Untitled.png)
+![Untitled.png](/img/user/Data/Untitled.png)
