@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/secteur-d-activites/technologie/"}
 ---
 
-[[DASSAULT SYSTEME\|DASSAULT SYSTEME]]
+[[Entreprises/DASSAULT SYSTEME\|DASSAULT SYSTEME]]
 
