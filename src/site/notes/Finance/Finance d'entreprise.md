@@ -28,9 +28,9 @@ Le chiffre d'affaires évolue par le biais de 3 facteurs
 
 ## Analyse des marges 
 
-![image001.png](/img/user/Sources/image001.png)
+![image001.png](/img/user/Data/Sources/image001.png)
 
-![image002.png](/img/user/image002.png)
+![image002.png](/img/user/Data/image002.png)
 
 
 **Commentaire** :
@@ -40,7 +40,7 @@ L'excédent brut d'exploitation est la différence entre les charges d'exploitat
 
 **L'effet ciseaux** :
 
-![image001.gif](/img/user/Sources/image001.gif)
+![image001.gif](/img/user/Data/Sources/image001.gif)
 
 **L'effet point mort** :
 
