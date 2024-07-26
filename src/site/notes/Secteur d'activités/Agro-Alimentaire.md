@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/secteur-d-activites/agro-alimentaire/"}
 ---
 
-[[Blé\|Blé]]
+[[Secteur d'activités/Blé\|Blé]]
