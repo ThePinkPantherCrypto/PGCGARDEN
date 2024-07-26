@@ -13,7 +13,7 @@ Le gaz des **USA** est un gaz de roche mère (gaz et pétrole de schiste)
 On doit frapper le rocher pour extraire le gaz ou le pétrole ce qui est polluants
 
 ### Les plus gros producteurs de GNL (millions de mètres cube)
-![VCE-Top-10-Natural-Gas-Producing-Companies_Main_July18~2.jpg](/img/user/VCE-Top-10-Natural-Gas-Producing-Companies_Main_July18~2.jpg)
+![VCE-Top-10-Natural-Gas-Producing-Companies_Main_July18~2.jpg](/img/user/Data/VCE-Top-10-Natural-Gas-Producing-Companies_Main_July18~2.jpg)
 
 
 
