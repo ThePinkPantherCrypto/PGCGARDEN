@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/zone-geographique/zone-geographique/"}
 ---
 
-[[Pakistan\|Pakistan]]
+[[Zone Géographique/Pakistan\|Pakistan]]
 
 [[Zone Géographique/Monde/Monde\|Monde]]
 
-[[Arménie\|Arménie]]
+[[Zone Géographique/Arménie\|Arménie]]
 
-[[Biélorussie\|Biélorussie]]
+[[Zone Géographique/Biélorussie\|Biélorussie]]
 
 [[Zone Géographique/USA/USA\|USA]]
 
@@ -38,13 +38,13 @@
 
 [[Zone Géographique/Australie\|Australie]]
 
-[[Turquie\|Turquie]]
+[[Zone Géographique/Turquie\|Turquie]]
 
-[[Iran\|Iran]]
+[[Zone Géographique/Iran\|Iran]]
 
-[[Asie Centrale\|Asie Centrale]]
+[[Zone Géographique/Asie Centrale\|Asie Centrale]]
 
-[[Afghanistan\|Afghanistan]]
+[[Zone Géographique/Afghanistan\|Afghanistan]]
 
 
 
