@@ -21,9 +21,9 @@
 
 [[Secteur d'activités/Minerais\|Minerais]]
 
-[[Intelligence artificielle\|Intelligence artificielle]]
+[[Secteur d'activités/Intelligence artificielle\|Intelligence artificielle]]
 
-[[Industries\|Industries]]
+[[Secteur d'activités/Industries\|Industries]]
 
 
 
