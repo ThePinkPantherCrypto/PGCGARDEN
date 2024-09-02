@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/finance/le-guide-de-la-finance-by-arnaud-niveau-facile/"}
 ---
 
-
-
 ## FINANCE DE MARCHE BASICS
 
 [[Finance/TAUX SANS RISQUE\|TAUX SANS RISQUE]]
@@ -20,6 +18,7 @@
 [[SHARPE RATIO\|SHARPE RATIO]]
 [[SORTINO\|SORTINO]]
 [[BETA\|BETA]]
+[[ALPHA\|ALPHA]]
 [[TRI\|TRI]]
 [[Finance/COST OF EQUITY\|COST OF EQUITY]]
 
