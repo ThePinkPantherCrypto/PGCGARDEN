@@ -4,7 +4,7 @@
 
 
 
-[[Finance/Finance d'entreprise\|Finance d'entreprise]]
-[[Finance/Finance de marche\|Finance de marche]]
+[[Finance/PGC/Finance d'entreprise\|Finance d'entreprise]]
+[[Finance/PGC/Finance de marche\|Finance de marche]]
 [[Économie \|Économie ]]
-[[Finance/Le guide de la finance by Arnaud (Niveau Facile)\|Le guide de la finance by Arnaud (Niveau Facile)]]
+[[Finance/PGC/Le guide de la finance by Arnaud (Niveau Facile)\|Le guide de la finance by Arnaud (Niveau Facile)]]
