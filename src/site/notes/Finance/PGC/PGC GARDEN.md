@@ -15,8 +15,10 @@
 
 ##  Connaissances 
 
-[[Finance/PGC/Le guide de la finance by Arnaud (Niveau Facile)\|Le guide de la finance by Arnaud (Niveau Facile)]]
+[[Finance/PGC/GUIDE DE LA FINANCE\|GUIDE DE LA FINANCE]]
 [[Finance/CFA/CFA LVL 1\|CFA LVL 1]]
+
+
 
 
 
