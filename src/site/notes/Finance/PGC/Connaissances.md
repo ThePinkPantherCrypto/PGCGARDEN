@@ -2,6 +2,6 @@
 {"dg-publish":true,"permalink":"/finance/pgc/connaissances/"}
 ---
 
-[[Finance/PGC/Le guide de la finance by Arnaud (Niveau Facile)\|Le guide de la finance by Arnaud (Niveau Facile)]]
+[[Finance/PGC/GUIDE DE LA FINANCE\|GUIDE DE LA FINANCE]]
 [[PODCASTS\|PODCASTS]]
 [[LIVRES\|LIVRES]]
